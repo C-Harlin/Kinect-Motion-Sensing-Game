@@ -1,0 +1,17 @@
+﻿<Window x:Class="KinectPowerPointControl.Login"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:KinectPowerPointControl"
+        mc:Ignorable="d"
+        Title="Login" Height="400" Width="638">
+    <Grid>
+        <Image x:Name="panel_1_jpg" Margin="-10,0,0,-13" Source="panel_1.jpg" Stretch="Fill"/>
+        <Button x:Name="button" Background="#60AA4030" Click="button_Click" Margin="246,248,217,47">
+            <Button.Content>
+                <Image  Source="play_4.png" Height="74" Width="157" RenderTransformOrigin="0.58,0.868"/>
+            </Button.Content>
+        </Button>
+    </Grid>
+</Window>

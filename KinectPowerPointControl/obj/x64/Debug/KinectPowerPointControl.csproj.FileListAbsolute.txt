@@ -1,0 +1,35 @@
+F:\大四上\智能控制\code\KinectPowerPointControl\bin\x64\Debug\KinectPowerPointControl.exe.config
+F:\大四上\智能控制\code\KinectPowerPointControl\obj\x64\Debug\MainWindow.baml
+F:\大四上\智能控制\code\KinectPowerPointControl\obj\x64\Debug\MainWindow.g.cs
+F:\大四上\智能控制\code\KinectPowerPointControl\obj\x64\Debug\App.g.cs
+F:\大四上\智能控制\code\KinectPowerPointControl\obj\x64\Debug\KinectPowerPointControl_MarkupCompile.cache
+F:\大四上\智能控制\code\KinectPowerPointControl\obj\x64\Debug\KinectPowerPointControl.g.resources
+F:\大四上\智能控制\code\KinectPowerPointControl\obj\x64\Debug\KinectPowerPointControl.Properties.Resources.resources
+F:\大四上\智能控制\code\KinectPowerPointControl\obj\x64\Debug\KinectPowerPointControl.csproj.GenerateResource.Cache
+F:\大四上\智能控制\code\KinectPowerPointControl\bin\x64\Debug\KinectPowerPointControl.exe
+F:\大四上\智能控制\code\KinectPowerPointControl\bin\x64\Debug\KinectPowerPointControl.pdb
+F:\大四上\智能控制\code\KinectPowerPointControl\bin\x64\Debug\Microsoft.Kinect.dll
+F:\大四上\智能控制\code\KinectPowerPointControl\bin\x64\Debug\Microsoft.Kinect.xml
+F:\大四上\智能控制\code\KinectPowerPointControl\obj\x64\Debug\KinectPowerPointControl.exe
+F:\大四上\智能控制\code\KinectPowerPointControl\obj\x64\Debug\KinectPowerPointControl.pdb
+F:\大四上\智能控制\code\KinectPowerPointControl\obj\x64\Debug\KinectPowerPointControl.csprojResolveAssemblyReference.cache
+F:\大四上\智能控制\code\KinectPowerPointControl\obj\x64\Debug\KinectPowerPointControl_MarkupCompile.lref
+F:\大四上\智能控制\code\KinectPowerPointControl\obj\x64\Debug\Login.g.cs
+F:\大四上\智能控制\code\KinectPowerPointControl\obj\x64\Debug\Login.baml
+D:\Program Files (x86)\Tencent\792486414\FileRecv\code2\code\KinectPowerPointControl\bin\x64\Debug\KinectPowerPointControl.exe.config
+D:\Program Files (x86)\Tencent\792486414\FileRecv\code2\code\KinectPowerPointControl\obj\x64\Debug\KinectPowerPointControl.exe
+D:\Program Files (x86)\Tencent\792486414\FileRecv\code2\code\KinectPowerPointControl\obj\x64\Debug\KinectPowerPointControl.pdb
+D:\Program Files (x86)\Tencent\792486414\FileRecv\code2\code\KinectPowerPointControl\obj\x64\Debug\MainWindow.baml
+D:\Program Files (x86)\Tencent\792486414\FileRecv\code2\code\KinectPowerPointControl\obj\x64\Debug\Login.g.cs
+D:\Program Files (x86)\Tencent\792486414\FileRecv\code2\code\KinectPowerPointControl\obj\x64\Debug\MainWindow.g.cs
+D:\Program Files (x86)\Tencent\792486414\FileRecv\code2\code\KinectPowerPointControl\obj\x64\Debug\App.g.cs
+D:\Program Files (x86)\Tencent\792486414\FileRecv\code2\code\KinectPowerPointControl\obj\x64\Debug\KinectPowerPointControl_MarkupCompile.cache
+D:\Program Files (x86)\Tencent\792486414\FileRecv\code2\code\KinectPowerPointControl\obj\x64\Debug\KinectPowerPointControl_MarkupCompile.lref
+D:\Program Files (x86)\Tencent\792486414\FileRecv\code2\code\KinectPowerPointControl\bin\x64\Debug\KinectPowerPointControl.exe
+D:\Program Files (x86)\Tencent\792486414\FileRecv\code2\code\KinectPowerPointControl\bin\x64\Debug\KinectPowerPointControl.pdb
+D:\Program Files (x86)\Tencent\792486414\FileRecv\code2\code\KinectPowerPointControl\bin\x64\Debug\Microsoft.Kinect.dll
+D:\Program Files (x86)\Tencent\792486414\FileRecv\code2\code\KinectPowerPointControl\bin\x64\Debug\Microsoft.Kinect.xml
+D:\Program Files (x86)\Tencent\792486414\FileRecv\code2\code\KinectPowerPointControl\obj\x64\Debug\Login.baml
+D:\Program Files (x86)\Tencent\792486414\FileRecv\code2\code\KinectPowerPointControl\obj\x64\Debug\KinectPowerPointControl.g.resources
+D:\Program Files (x86)\Tencent\792486414\FileRecv\code2\code\KinectPowerPointControl\obj\x64\Debug\KinectPowerPointControl.Properties.Resources.resources
+D:\Program Files (x86)\Tencent\792486414\FileRecv\code2\code\KinectPowerPointControl\obj\x64\Debug\KinectPowerPointControl.csproj.GenerateResource.Cache
