@@ -27,6 +27,7 @@ using System.ComponentModel;
 
 
 
+
 namespace KinectPowerPointControl
 {
     /// <summary>
@@ -91,9 +92,33 @@ namespace KinectPowerPointControl
             voice.SpeakAsync("Please select the game mode");
             //2017/11/29 by zzl
             
-            sensor.SkeletonStream.Enable(parameters);            
+            sensor.SkeletonStream.Enable(parameters);
+            Application.Current.Exit += new ExitEventHandler(Current_Exit);
+            InitializeSpeechRecognition();
+        }
+
+        /// <summary>
+        /// 应用退出事件
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
+        void Current_Exit(object sender, ExitEventArgs e)
+        {
+            if (speechRecognizer != null)
+            {
+                speechRecognizer.RecognizeAsyncCancel();
+                speechRecognizer.RecognizeAsyncStop();
+            }
+            if (sensor != null)
+            {
+                sensor.AudioSource.Stop();
+                sensor.Stop();
+                sensor.Dispose();
+                sensor = null;
+            }
         }
         //------------------------------
+        #region Speech Recognition Methods
         private static RecognizerInfo GetKinectRecognizer()
         {
             Func<RecognizerInfo, bool> matchingFunc = r =>
@@ -195,7 +220,7 @@ Ensure you have the Microsoft Speech SDK installed and configured.",
         {
             //This first release of the Kinect language pack doesn't have a reliable confidence model, so 
             //we don't use e.Result.Confidence here.
-            if (e.Result.Confidence < 0.70)
+            if (e.Result.Confidence < 0.40)
             {
                 Trace.WriteLine("\nSpeech Rejected filtered, confidence: " + e.Result.Confidence);
                 return;
@@ -224,3 +249,4 @@ Ensure you have the Microsoft Speech SDK installed and configured.",
         }
     }
 }
+#endregion

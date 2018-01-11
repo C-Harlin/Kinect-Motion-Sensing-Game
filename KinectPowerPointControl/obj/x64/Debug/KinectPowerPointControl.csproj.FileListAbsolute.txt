@@ -33,3 +33,21 @@ D:\Program Files (x86)\Tencent\792486414\FileRecv\code2\code\KinectPowerPointCon
 D:\Program Files (x86)\Tencent\792486414\FileRecv\code2\code\KinectPowerPointControl\obj\x64\Debug\KinectPowerPointControl.g.resources
 D:\Program Files (x86)\Tencent\792486414\FileRecv\code2\code\KinectPowerPointControl\obj\x64\Debug\KinectPowerPointControl.Properties.Resources.resources
 D:\Program Files (x86)\Tencent\792486414\FileRecv\code2\code\KinectPowerPointControl\obj\x64\Debug\KinectPowerPointControl.csproj.GenerateResource.Cache
+D:\Program Files (x86)\Tencent\792486414\FileRecv\code2\Kinect Motion Sensing Game\KinectPowerPointControl\bin\x64\Debug\KinectPowerPointControl.exe.config
+D:\Program Files (x86)\Tencent\792486414\FileRecv\code2\Kinect Motion Sensing Game\KinectPowerPointControl\obj\x64\Debug\KinectPowerPointControl.exe
+D:\Program Files (x86)\Tencent\792486414\FileRecv\code2\Kinect Motion Sensing Game\KinectPowerPointControl\obj\x64\Debug\KinectPowerPointControl.pdb
+D:\Program Files (x86)\Tencent\792486414\FileRecv\code2\Kinect Motion Sensing Game\KinectPowerPointControl\bin\x64\Debug\KinectPowerPointControl.exe
+D:\Program Files (x86)\Tencent\792486414\FileRecv\code2\Kinect Motion Sensing Game\KinectPowerPointControl\bin\x64\Debug\KinectPowerPointControl.pdb
+D:\Program Files (x86)\Tencent\792486414\FileRecv\code2\Kinect Motion Sensing Game\KinectPowerPointControl\bin\x64\Debug\Microsoft.Kinect.dll
+D:\Program Files (x86)\Tencent\792486414\FileRecv\code2\Kinect Motion Sensing Game\KinectPowerPointControl\bin\x64\Debug\Microsoft.Kinect.xml
+D:\Program Files (x86)\Tencent\792486414\FileRecv\code2\Kinect Motion Sensing Game\KinectPowerPointControl\obj\x64\Debug\KinectPowerPointControl.csprojResolveAssemblyReference.cache
+D:\Program Files (x86)\Tencent\792486414\FileRecv\code2\Kinect Motion Sensing Game\KinectPowerPointControl\obj\x64\Debug\MainWindow.baml
+D:\Program Files (x86)\Tencent\792486414\FileRecv\code2\Kinect Motion Sensing Game\KinectPowerPointControl\obj\x64\Debug\Login.g.cs
+D:\Program Files (x86)\Tencent\792486414\FileRecv\code2\Kinect Motion Sensing Game\KinectPowerPointControl\obj\x64\Debug\MainWindow.g.cs
+D:\Program Files (x86)\Tencent\792486414\FileRecv\code2\Kinect Motion Sensing Game\KinectPowerPointControl\obj\x64\Debug\App.g.cs
+D:\Program Files (x86)\Tencent\792486414\FileRecv\code2\Kinect Motion Sensing Game\KinectPowerPointControl\obj\x64\Debug\KinectPowerPointControl_MarkupCompile.cache
+D:\Program Files (x86)\Tencent\792486414\FileRecv\code2\Kinect Motion Sensing Game\KinectPowerPointControl\obj\x64\Debug\KinectPowerPointControl_MarkupCompile.lref
+D:\Program Files (x86)\Tencent\792486414\FileRecv\code2\Kinect Motion Sensing Game\KinectPowerPointControl\obj\x64\Debug\Login.baml
+D:\Program Files (x86)\Tencent\792486414\FileRecv\code2\Kinect Motion Sensing Game\KinectPowerPointControl\obj\x64\Debug\KinectPowerPointControl.g.resources
+D:\Program Files (x86)\Tencent\792486414\FileRecv\code2\Kinect Motion Sensing Game\KinectPowerPointControl\obj\x64\Debug\KinectPowerPointControl.Properties.Resources.resources
+D:\Program Files (x86)\Tencent\792486414\FileRecv\code2\Kinect Motion Sensing Game\KinectPowerPointControl\obj\x64\Debug\KinectPowerPointControl.csproj.GenerateResource.Cache
